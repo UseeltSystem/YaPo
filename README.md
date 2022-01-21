@@ -1,2 +1,1 @@
-# YaPo
-Hello! I made something similar to a programming language in the Python programming language, I hope you like it!
+Hi! In order to run this programming language, we must open cmd, and enter the cd command (the path to the folder with the programming language), I wish you luck!
